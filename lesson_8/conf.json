@@ -1,0 +1,9 @@
+{
+  "email": "gb@gb.ru",
+  "host": "127.0.0.1",
+  "jwt": {
+    "appId": "39ASSF-FSSWWQ",
+    "appSecret": "JKISIIOOQJ"
+  },
+  "publicUrl": "https://vk.com"
+}
